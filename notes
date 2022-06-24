@@ -1,0 +1,42 @@
+/* {
+    // const todo = document.getElementById("todo").value;
+     id: 1,
+     todo: 'Learn MERN',
+     isCompleted: true,
+     createdAt: new Date().toISOString(),
+     CompletedAt: null
+   },
+   {
+     id: 2,
+     todo: 'Learn HTML',
+     isCompleted: true,
+     createdAt: new Date().toISOString(),
+     CompletedAt: null
+   },
+   {
+     id: 3,
+     todo: 'Learn CSS',
+     isCompleted: false,
+     createdAt: new Date().toISOString(),
+     CompletedAt: null
+   },
+   {
+     id: 4,
+     todo: 'Learn REACT',
+     isCompleted: false,
+     createdAt: new Date().toISOString(),
+     CompletedAt: null
+   },
+   {
+     id: 5,
+     todo: 'Learn MONGO',
+     isCompleted: true,`
+     createdAt: new Date().toISOString(),
+     CompletedAt: null
+         // todos.push(todo);
+   // console.log('todos', todos);
+
+     {`todos-item ${
+           todo.isCompleted ? 'todos-item--completed': ''
+         }`}
+   },*/
