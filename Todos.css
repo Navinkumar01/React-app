@@ -1,0 +1,16 @@
+.todos{
+    max-width: 500px;
+    width: 100%;
+    margin-inline: auto;
+    padding: 1em 1em;
+    background-color: #fff;
+
+}
+.todos_title{
+    text-align: left;
+    color: rgb(1, 14, 14);
+}
+
+.todos-item--completed{
+    text-decoration: line-through;
+}

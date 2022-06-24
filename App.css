@@ -1,0 +1,6 @@
+.app{
+    min-height: 100vh;
+    background-color: #b5ffe1;
+    display: grid;
+    place-items: center;
+}
